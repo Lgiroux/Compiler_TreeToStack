@@ -8,6 +8,6 @@ The compiler translates cuppa1 into stackmachine.
 
 Assignment6.ipynb is a jupyter notebook showing the execution of the compiler.
 
- NOTE: 
-  
-  Not all code is mine, some has been provided by my professor.
+NOTE:
+ 
+ Not all code is mine, some has been provided by my professor.
